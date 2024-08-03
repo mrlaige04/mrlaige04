@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrlaige04" alt="mrlaige04" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [my profile](my profile)
+- 👨‍💻 All of my projects are available at my profile
 
 - 📫 How to reach me **illia.rudiakov11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jao7q_01KkeQC0w2Q7EDHlQK8VO6Lma2/view?usp=sharing](https://drive.google.com/file/d/1Jao7q_01KkeQC0w2Q7EDHlQK8VO6Lma2/view?usp=sharing)
+- 📄 Know about my experiences [from CV](https://drive.google.com/file/d/1Jao7q_01KkeQC0w2Q7EDHlQK8VO6Lma2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
